@@ -1,2 +1,5 @@
-streamlit>=1.36.0
-yt-dlp>=2024.4.9
+streamlit
+
+yt-dlp
+
+ffmpeg-python
